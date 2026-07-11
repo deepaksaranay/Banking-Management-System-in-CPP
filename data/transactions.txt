@@ -1,0 +1,2 @@
+# Transaction history storage file
+# Format: Transaction ID | Type | Amount | Balance After | Timestamp | Description | Status
