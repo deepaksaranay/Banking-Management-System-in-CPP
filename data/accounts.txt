@@ -1,0 +1,2 @@
+# Account data storage file
+# Format: Account Number | Name | Email | Phone | Address | DOB | Account Type | Creation Date | Balance | Transactions
